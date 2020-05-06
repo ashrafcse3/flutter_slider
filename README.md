@@ -1,16 +1,9 @@
-# page_slider
+# Page Slider
 
-A new Flutter project.
+This is my first own completed flutter project. I picked up this awesome UI from one of the dribbble shots.
 
-## Getting Started
+## Inspiration
+<img src="https://github.com/ashrafcse3/flutter_slider/blob/master/screenshots/inspiration.jpg" alt="Original design" height="480"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## My result
+<img src="https://github.com/ashrafcse3/flutter_slider/blob/master/screenshots/demo.gif" alt="Original design" height="480"/>
